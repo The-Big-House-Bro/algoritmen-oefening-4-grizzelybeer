@@ -9,7 +9,6 @@ def countTargetPairs(nums,target):
 
     return count
 
-
 nums = [-1,1,2,3,1]
 target = 2
 antwoord = countTargetPairs(nums,target)
